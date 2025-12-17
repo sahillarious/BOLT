@@ -38,6 +38,8 @@ Software
 4. Tracking success rate: >90% (indoor environments)
 5. Robustness: Works across varied lighting conditions
 
+For detailed instructions, refer How-to guide.pdf
+
 👥 Authors
 Sahil Sawant - sahilshi@buffalo.edu
 Atharva Prabhu - aprabhu5@buffalo.edu
