@@ -1,0 +1,15 @@
+Starting program:  file_control.py
+No executable file specified.
+Use the "file" or "exec-file" command.
+Undefined command: "python3".  Try "help".
+Undefined command: "exit".  Try "help".
+Undefined command: "exit".  Try "help".
+Quit
+Undefined command: "exit".  Try "help".
+Undefined command: "Quit".  Try "help".
+Quit
+Quit
+Quit
+Quit
+Quit
+Quit
