@@ -3,7 +3,8 @@ B.O.L.T – Behavioral Object Locomotion & Tracking
 B.O.L.T is a real-time vision-guided object tracking system for the Unitree Go2 quadruped robot. 
 The system integrates a custom-trained YOLOv8 object detector, monocular depth estimation, and a state-based control architecture to autonomously detect, 
 track, and follow objects with sub-50 ms latency on edge hardware.
-![System Architecture](Unitree GO2 EDU robot (1).png)
+
+![Unitree Go2 Robot](Unitree_GO2.png)
 
 🚀 Features
 Real-time object detection using YOLOv8
